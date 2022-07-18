@@ -1,1 +1,1 @@
-# secsoc-ctf-22t2
+# SecSoc X Skylight Cyber CTF 2022T2
